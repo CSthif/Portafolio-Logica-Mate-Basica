@@ -16,7 +16,7 @@ Este portafolio documenta de forma sistemática y reflexiva mi proceso de aprend
 
 ---
 
-## Índice por semanas (Primera entrega)
+## Índice por semanas
 - [Semana 2 — Módulo 3. Fundamentos de conjuntos (Parte I)](./Semana%202)
 - [Semana 3 — Módulo 3. Fundamentos de conjuntos (Parte I)](./Semana%203)
 - [Semana 4 — Módulo 3. Conjunto de los números reales (Parte II)](./Semana%204)
