@@ -64,4 +64,4 @@ Identifiqué conexiones claras entre los conceptos matemáticos vistos en clase 
 
 ## Evidencia visual de la interacción
 
-![Evidencia DialogoX](../evidencias/DialogoxEvidencia.png)
+![Evidencia DialogoX](../Evidencias/DialogoxEvidencia.png)
