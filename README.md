@@ -23,6 +23,6 @@ Este portafolio documenta de forma sistemática y reflexiva mi proceso de aprend
 
 ---
 
-## Evidencias (carpeta)
+## Evidencias
 Las capturas de pantalla, imágenes y archivos de respaldo se encuentran en:
 - [`/Evidencias`](./Evidencias)
