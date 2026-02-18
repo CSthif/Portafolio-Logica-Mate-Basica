@@ -14,16 +14,15 @@ Este portafolio documenta de forma sistemática y reflexiva mi proceso de aprend
 - Resolución ordenada de **ejercicios prácticos**
 - Autoevaluaciones y reflexión metacognitiva con **AI-Mirror**
 
-
 ---
 
 ## Índice por semanas (Primera entrega)
-- [Semana 2 — Módulo 3. Fundamentos de conjuntos (Parte I)](./Semana-2)
-- [Semana 3 — Módulo 3. Fundamentos de conjuntos (Parte I)](./Semana-3)
-- [Semana 4 — Módulo 3. Conjunto de los números reales (Parte II)](./Semana-4)
+- [Semana 2 — Módulo 3. Fundamentos de conjuntos (Parte I)](./Semana%202)
+- [Semana 3 — Módulo 3. Fundamentos de conjuntos (Parte I)](./Semana%203)
+- [Semana 4 — Módulo 3. Conjunto de los números reales (Parte II)](./Semana%204)
 
 ---
 
 ## Evidencias (carpeta)
 Las capturas de pantalla, imágenes y archivos de respaldo se encuentran en:
-- [`/evidencias`](./evidencias)
+- [`/Evidencias`](./Evidencias)
