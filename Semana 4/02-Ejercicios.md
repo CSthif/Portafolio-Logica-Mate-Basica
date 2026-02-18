@@ -37,79 +37,96 @@ l) \(x \; > \; v+3\)
 
 Complete las notaciones faltantes.
 
-### 1.
-**Comprensión:** \(\{x \in \mathbb{R} \mid \frac{1}{2} < x \le 4\}\)  
-**Simbólica:** \(]\frac{1}{2}, 4]\)
+1.
+- Comprensión: { x ∈ R | 1/2 < x ≤ 4 }
+- Simbólica: (1/2, 4]
 
-### 2.
-**Simbólica:** \(]-7,15]\)  
-**Comprensión:** \(\{x \in \mathbb{R} \mid -7 < x \le 15\}\)
+2.
+- Simbólica: (-7, 15]
+- Comprensión: { x ∈ R | -7 < x ≤ 15 }
 
-### 3.
-**Gráfica:** segmento cerrado de \(-6\) a \(1\)  
-**Simbólica:** \([-6,1]\)  
-**Comprensión:** \(\{x \in \mathbb{R} \mid -6 \le x \le 1\}\)
+3.
+- Gráfica: segmento cerrado de -6 a 1
+- Simbólica: [-6, 1]
+- Comprensión: { x ∈ R | -6 ≤ x ≤ 1 }
 
-### 4.
-**Comprensión:** \(\{x \in \mathbb{R} \mid x < \frac{\pi}{4}\}\)  
-**Simbólica:** \(]-\infty, \frac{\pi}{4}[\)
+4.
+- Comprensión: { x ∈ R | x < π/4 }
+- Simbólica: (-∞, π/4)
 
-### 5.
-**Simbólica:** \(]-\infty,0]\)  
-**Comprensión:** \(\{x \in \mathbb{R} \mid x \le 0\}\)
+5.
+- Simbólica: (-∞, 0]
+- Comprensión: { x ∈ R | x ≤ 0 }
 
-### 6.
-**Gráfica:** desde \(-\infty\) hasta \(-3\) incluyendo \(-3\)  
-**Simbólica:** \(]-\infty,-3]\)  
-**Comprensión:** \(\{x \in \mathbb{R} \mid x \le -3\}\)
+6.
+- Gráfica: desde -∞ hasta -3 incluyendo -3
+- Simbólica: (-∞, -3]
+- Comprensión: { x ∈ R | x ≤ -3 }
 
-### 7.
-**Comprensión:** \(\{x \in \mathbb{R} \mid x \ge \sqrt{5}\}\)  
-**Simbólica:** \([\sqrt{5},+\infty[\)
+7.
+- Comprensión: { x ∈ R | x ≥ √5 }
+- Simbólica: [√5, +∞)
 
-### 8.
-**Simbólica:** \(]\pi,\frac{10}{3}[\)  
-**Comprensión:** \(\{x \in \mathbb{R} \mid \pi < x < \frac{10}{3}\}\)
+8.
+- Simbólica: (π, 10/3)
+- Comprensión: { x ∈ R | π < x < 10/3 }
 
 ---
 
 ## 3) Práctica de operaciones combinadas (pág. 12)
 
 ### 1.
-\[
-[4(\sqrt{81}-\sqrt{36})^3+2]-8
-\]
-\(\sqrt{81}=9\), \(\sqrt{36}=6\) → \(9-6=3\)  
-\(3^3=27\)  
-\(4\cdot 27=108\)  
-\(108+2=110\)  
-\(110-8=102\)
 
-✅ **Resultado:** \(102\)
+[4(√81 − √36)^3 + 2] − 8
+
+√81 = 9  
+√36 = 6  
+9 − 6 = 3  
+3³ = 27  
+4 · 27 = 108  
+108 + 2 = 110  
+110 − 8 = 102  
+
+Resultado: 102
 
 ---
 
 ### 2.
-\[
-[(20-4^2)^3+(3\cdot 5^0)^2]^2
-\]
-\(4^2=16\) → \(20-16=4\) → \(4^3=64\)  
-\(5^0=1\) → \(3\cdot 1=3\) → \(3^2=9\)  
-\(64+9=73\)  
-\(73^2=5329\)
 
-✅ **Resultado:** \(5329\)
+[(20 − 4²)^3 + (3 · 5⁰)^2]^2
+
+4² = 16  
+20 − 16 = 4  
+4³ = 64  
+
+5⁰ = 1  
+3 · 1 = 3  
+3² = 9  
+
+64 + 9 = 73  
+73² = 5329  
+
+Resultado: 5329
 
 ---
 
 ### 3.
-\[
-\left[\left(\sqrt{\frac{64}{81}}\cdot \frac{3}{5}\right)+\frac{2}{3}\right]+\sqrt{\frac{1}{4}}
-\]
-\(\sqrt{\frac{64}{81}}=\frac{8}{9}\)  
-\(\frac{8}{9}\cdot \frac{3}{5}=\frac{8}{15}\)  
-\(\frac{8}{15}+\frac{2}{3}=\frac{8}{15}+\frac{10}{15}=\frac{18}{15}=\frac{6}{5}\)  
-\(\sqrt{\frac{1}{4}}=\frac{1}{2}\)  
-\(\frac{6}{5}+\frac{1}{2}=\frac{12}{10}+\frac{5}{10}=\frac{17}{10}\)
 
-✅ **Resultado:** \(\frac{17}{10}\)
+[(√(64/81) · 3/5) + 2/3] + √(1/4)
+
+√(64/81) = 8/9  
+
+8/9 · 3/5 = 24/45 = 8/15  
+
+8/15 + 2/3  
+2/3 = 10/15  
+8/15 + 10/15 = 18/15 = 6/5  
+
+√(1/4) = 1/2  
+
+6/5 + 1/2  
+= 12/10 + 5/10  
+= 17/10  
+
+Resultado: 17/10
+
