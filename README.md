@@ -20,6 +20,10 @@ Este portafolio documenta de forma sistemática y reflexiva mi proceso de aprend
 - [Semana 2 — Módulo 3. Fundamentos de conjuntos (Parte I)](./Semana%202)
 - [Semana 3 — Módulo 3. Fundamentos de conjuntos (Parte I)](./Semana%203)
 - [Semana 4 — Módulo 3. Conjunto de los números reales (Parte II)](./Semana%204)
+- [Semana 5 – Módulo 4. Expresiones algebraicas (Parte I)](./Semana%205)
+- [Semana 6 – Módulo 4. Expresiones algebraicas (Parte I)](./Semana%206)
+- [Semana 7 – Módulo 4. Expresiones algebraicas (Parte I)](./Semana%207)
+- [Semana 8 – Módulo 4. Expresiones algebraicas (Parte I)](./Semana%208)
 
 ---
 
