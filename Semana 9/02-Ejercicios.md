@@ -59,7 +59,3 @@ Sustituyendo x = 10 en la ecuación original:
 El desarrollador freelance puede realizar **10 proyectos** en el mes utilizando exactamente todo su presupuesto de ₡600,000. Si desea aceptar más proyectos, necesitaría buscar ingresos adicionales. Si acepta menos de 10, le quedaría un excedente que podría destinar a ahorro o inversión en equipo.
 
 Este ejemplo demuestra cómo las ecuaciones lineales permiten tomar decisiones financieras informadas en la vida profesional de un desarrollador.
-
----
-
-> **Nota:** La infografía visual correspondiente a este ejercicio debe ser creada y adjuntada por el estudiante de forma separada, utilizando el contenido aquí desarrollado como base para el diseño gráfico.

@@ -94,7 +94,3 @@ Este punto corresponde al final de la segunda subida e inicio de la bajada más 
 | 10 | h(x) | 4 | **Punto más alto** |
 | 14 | p(x) | 0 | Fin de la bajada final |
 | 18 | q(x) | 0 | Fin del recorrido (zona plana) |
-
----
-
-> **Nota:** La representación gráfica de esta función en GeoGebra o herramienta similar debe ser adjuntada como evidencia visual del ejercicio.

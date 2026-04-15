@@ -40,9 +40,3 @@ Para comprender mejor esta diferencia, considero que me sería útil:
 - Visualizar las funciones gráficamente para entender que representan relaciones, no solo expresiones estáticas.
 
 La interacción con DiálogoX en esta semana me ayudó especialmente a entender las funciones desde un enfoque práctico, lo cual complementa la teoría vista en clase.
-
----
-
-## Nota
-
-La evidencia de la interacción con DiálogoX utilizada como apoyo para esta reflexión se encuentra en el archivo `01-DialogoX.md` de esta misma semana.

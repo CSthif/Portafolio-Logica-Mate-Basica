@@ -31,6 +31,3 @@ Sin embargo, no me puse un 5 porque reconozco que todavía me cuesta un poco cua
 
 Para mejorar, considero que debo practicar más con problemas de distintos contextos, no solo financieros sino también de otras áreas como física, logística o estadística. También me ayudaría releer los enunciados con más calma y subrayar los datos clave antes de intentar plantear la ecuación. Otra estrategia que quiero aplicar es verificar siempre mi resultado sustituyendo en la ecuación original, como lo hice en el ejercicio de esta semana, ya que eso me da confianza de que el planteamiento fue correcto.
 
----
-
-> **Nota:** La evidencia de la interacción con DiálogoX para recibir ayuda sobre cómo mejorar esta habilidad debe ser adjuntada por el estudiante.
