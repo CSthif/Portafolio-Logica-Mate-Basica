@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git credential-manager:*)",
-      "Bash(git config:*)"
-    ]
-  }
-}
