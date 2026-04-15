@@ -24,6 +24,10 @@ Este portafolio documenta de forma sistemática y reflexiva mi proceso de aprend
 - [Semana 6 – Módulo 4. Expresiones algebraicas (Parte I)](./Semana%206)
 - [Semana 7 – Módulo 4. Expresiones algebraicas (Parte I)](./Semana%207)
 - [Semana 8 – Módulo 4. Expresiones algebraicas (Parte I)](./Semana%208)
+- [Semana 9 – Módulo 4. Ecuaciones e Inecuaciones (Parte II)](./Semana%209)
+- [Semana 10 – Módulo 4. Ecuaciones e Inecuaciones (Parte II)](./Semana%2010)
+- [Semana 11 – Módulo 5. Funciones (Parte I)](./Semana%2011)
+- [Semana 12 – Módulo 5. Funciones (Parte II)](./Semana%2012)
 
 ---
 
